@@ -86,7 +86,8 @@ public class MainActivity extends AppCompatActivity {
 Developed by: Mohamed Fazludeen
 Registeration Number :212225040240
 ## OUTPUT
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/21cc53b0-b73b-4571-b041-ff1b0a2bccdc" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/6590e2d1-43ff-4ae4-8a23-589917454ac5" />
+
 <img width="1917" height="1078" alt="Screenshot 2026-11-06 084816" src="https://github.com/user-attachments/assets/4bbe770b-fed1-477e-aea9-5ec49c460f69" />
 
 ## RESULT
